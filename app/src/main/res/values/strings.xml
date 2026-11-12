@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Menus Android</string>
+    <string name="menu_editar">Editar</string>
+    <string name="menu_compartir">Compartir</string>
+    <string name="menu_eliminar">Eliminar</string>
+    <string name="titulo_menu">Elige una opción</string>
+    <string name="sel_editar">Seleccionaste: Editar</string>
+    <string name="sel_compartir">Seleccionaste: Compartir</string>
+    <string name="sel_eliminar">Seleccionaste: Eliminar</string>
+    <!-- Si quieres dejar los Toast, también agrega sus strings -->
+    <!-- Textos para la Hoja 5 (Menú emergente) -->
+    <string name="btn_abrir_menu">Mostrar menú</string>
+    <string name="emergente_guardar">Guardar</string>
+    <string name="emergente_copiar">Copiar</string>
+    <string name="emergente_borrar">Borrar</string>
+    <string name="resultado_formato">Seleccionaste: %1$s</string>
+    <!-- Textos para la Hoja 2 (Grupos y activables) -->
+    <string name="grupo_opc_1">Opción A</string>
+    <string name="grupo_opc_2">Opción B</string>
+    <string name="grupo_opc_3">Opción C</string>
+    <string name="sel_grupo_1">Seleccionaste: Opción A</string>
+    <string name="sel_grupo_2">Seleccionaste: Opción B</string>
+    <string name="sel_grupo_3">Seleccionaste: Opción C</string>
+    <!-- Textos para la Hoja 4 (Modo de acción) -->
+    <string name="modo_opc_1">Acción 1</string>
+    <string name="modo_opc_2">Acción 2</string>
+    <string name="modo_opc_3">Acción 3</string>
+    <string name="sel_modo_1">Elegiste: Acción 1</string>
+    <string name="sel_modo_2">Elegiste: Acción 2</string>
+    <string name="sel_modo_3">Elegiste: Acción 3</string>
+    <string name="titulo_modo">Opciones</string>
+</resources>
